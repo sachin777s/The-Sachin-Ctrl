@@ -245,6 +245,10 @@ body{
     main {
         padding-top: 5px;
     }
+    
+    .demo details summary {
+     font-size: 15px;
+    }
 
     .cards {
         display: flex;
